@@ -17,5 +17,17 @@ com o usuário.
 O nome do arquivo deverá ser informado pelo usuário.
 O resultado do programa é apresentado em formato de arquivo
 texto, cujo nome é o mesmo do arquivo original, acrescido do sulfixo _dec. A
-extensão do arquivo permanece a mesma.
+extensão do arquivo permanece a mesma.  */
 
+
+  //declaraçao das bibliotecas
+#include <stdio.h>
+#include <math.h>
+  //funçao main
+int main (void)
+{
+
+
+  printf("\n\n");
+  return 0;
+}
