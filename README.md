@@ -18,4 +18,4 @@ O nome do arquivo deverá ser informado pelo usuário.
 O resultado do programa é apresentado em formato de arquivo
 texto, cujo nome é o mesmo do arquivo original, acrescido do sulfixo _dec. A
 extensão do arquivo permanece a mesma.
-*/
+
